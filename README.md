@@ -1,7 +1,13 @@
-# Learn Terraform - Lambda functions and API Gateway
 
-AWS Lambda functions and API gateway are often used to create serverlesss
-applications.
+## Serverless Student Portal with Terraform
 
-Follow along with this [tutorial on HashiCorp
-Learn](https://learn.hashicorp.com/tutorials/terraform/lambda-api-gateway?in=terraform/aws).
+This project deploys the backend of student-portal with Terraform.
+
+
+# Install
+```bash
+$ terraform init
+$ terraform apply
+```
+
+---
